@@ -55,3 +55,20 @@ Os dois processos CNPq são **408367/2024-5** e **442559/2025-9**. O convênio F
 Os resultados quantitativos apresentados pertencem às avaliações de cada publicação: ConvBoost-CPP, 91,3% de acurácia no teste independente; BChemRF-CPPred, 90,66% e AUC 0,9365 para entrada PDB; e o estudo de cromatografia, conjunto experimental de 18 peptídeos.
 
 A ilustração do cabeçalho é abstrata e não representa dados experimentais nem a estrutura de um peptídeo específico.
+
+
+## Figuras adicionadas às publicações
+
+As sete figuras abaixo foram fornecidas pelo autor e incorporadas sem recorte ou alteração de seus arquivos. Cada figura abre o arquivo original em resolução integral. A imagem duplicada do ConvBoost-CPP foi incluída uma única vez.
+
+| Artigo / DOI | Arquivo fornecido | Arquivo no site |
+| --- | --- | --- |
+| 10.1038/s41598-021-87134-w | 41598_2021_87134_Fig7_HTML.webp | assets/publications/bchemrf-cppred.webp |
+| 10.3389/fcimb.2022.838259 | fcimb-12-838259-g007.webp | assets/publications/membrane-penetrating-peptides.webp |
+| 10.1002/jcsm.70109 | jcsm70109-fig-0005-m.jpg | assets/publications/peptides-muscle-wasting.jpg |
+| 10.1371/journal.pone.0305253 | journal.pone.0305253.g001.PNG | assets/publications/convboost-cpp.png |
+| 10.1021/acsomega.5c02327 | m_ao5c02327_0008(1).png | assets/publications/peptide-retention-descriptors.png |
+| 10.3389/fchem.2021.662688 | fchem-09-662688-g0002.webp | assets/publications/virtual-screening-bioprospecting.webp |
+| 10.1021/acs.jcim.3c00951 | novo.png | assets/publications/brainpeppass.png |
+
+O parágrafo de apresentação que começa com “I hold a PhD in Biotechnology” foi substituído pelo texto solicitado pelo autor.
